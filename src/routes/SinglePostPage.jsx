@@ -84,8 +84,8 @@ const SinglePostPage = () => {
             exercitationem aliquam maxime quaerat, enim autem culpa sequi at!
             Earum facere in ducimus culpa. Lorem ipsum dolor sit amet
             consectetur, adipisicing elit. Libero fuga modi amet error aliquid
-            eos nobis vero soluta facilis, voluptatem, voluptates quod suscipit
-            obcaecati voluptate quaerat laborum, voluptatum dicta ipsum.
+            eos nobis vero soluta facilis, voluptatem, voluptates quod subscript
+            obcaecati voluptate quaerat laborum, voluptatem dicta ipsum.
           </p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias neque
@@ -94,9 +94,9 @@ const SinglePostPage = () => {
             facilis veritatis. Lorem ipsum dolor sit amet consectetur
             adipisicing elit. Sint ipsa fuga nihil numquam, quam dicta quas
             exercitationem aliquam maxime quaerat, enim autem culpa sequi at!
-            Earum facere in ducimus culpa. Lorem ipsum dolor sit amet
+            Earum facere in dims culpa. Lorem ipsum dolor sit amet
             consectetur, adipisicing elit. Libero fuga modi amet error aliquid
-            eos nobis vero soluta facilis, voluptatem, voluptates quod suscipit
+            eos nobis vero soluta facilis, voluptatem, voluptates quod subscript
             obcaecati voluptate quaerat laborum, voluptatum dicta ipsum.
           </p>
           <p>
